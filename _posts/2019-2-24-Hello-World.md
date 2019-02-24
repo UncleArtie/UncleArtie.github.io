@@ -17,11 +17,9 @@ Senior Installer/Level IV
 • Upgraded and enhanced IDS for Sprint with ALU WNG 9950 system.
 • Installation of first VoLTE backhaul network in Atlanta market for US Cellular.
 
-**NOKIA** – Atlanta, GA 1988-2015
-(Formerly known as Alcatel-Lucent USA)
-(Formerly known as Lucent Technologies, Inc.)
-(Spinoff from AT&T Network Systems)
-An innovation leader in the technologies that connect people and things, combining network infrastructure, software and services, with advanced technologies for smart devices and sensors to tap the power of connectivity. Senior Communications Systems Technician
+## NOKIA – Atlanta, GA 1988-2015
+
+**Nokia** is an innovation leader in the technologies that connect people and things, combining network infrastructure, software and services, with advanced technologies for smart devices and sensors to tap the power of connectivity. Senior Communications Systems Technician
 • SME for Nokia 1830, 7750, 7250 and 7705 equipment installation and power up.
 • Lead technician for all IP Multimedia Subsystems (IMS) projects belonging to AT&T in Atlanta market since 2010. Built VoIP and VoLTE networks for AT&T/AT&T Wireless implementing the newest Alcatel-Lucent ATCA platform and 7510 Media and Broadband Gateway (MGW & BGW) systems. IMS projects include establishment and expansion of core and edge routing systems for AT&T.
 • SME for all conversion projects in AT&T 5ESS environment. Successfully upgrading trunking network to packet switching based SS7, ISUP and SIP.
