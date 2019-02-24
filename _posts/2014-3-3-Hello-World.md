@@ -1,12 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title:
 ---
 
-# H1: PROFESSIONAL EXPERIENCE
+# PROFESSIONAL EXPERIENCE
 
-MASTEC NETWORK SOLUTIONS – Atlanta, GA 2015-Present
-MasTec Network Solutions (MNS) is a division of MasTec that provides comprehensive services and turnkey solutions required to design, build, optimize and maintain telecommunications networks.
+## MASTEC NETWORK SOLUTIONS – Atlanta, GA 2015-Present
+
+**MasTec Network Solutions (MNS)** is a division of MasTec that provides comprehensive services and turnkey solutions required to design, build, optimize and maintain telecommunications networks.
 Senior Installer/Level IV
 • Successfully completed expansion of AT&T IP Multimedia Subsystem for VoLTE backhaul and control.
 • Responsible for growth to AT&T VoIP network in Atlanta, doubling capacity.
@@ -16,7 +17,7 @@ Senior Installer/Level IV
 • Upgraded and enhanced IDS for Sprint with ALU WNG 9950 system.
 • Installation of first VoLTE backhaul network in Atlanta market for US Cellular.
 
-NOKIA – Atlanta, GA 1988-2015
+**NOKIA** – Atlanta, GA 1988-2015
 (Formerly known as Alcatel-Lucent USA)
 (Formerly known as Lucent Technologies, Inc.)
 (Spinoff from AT&T Network Systems)
